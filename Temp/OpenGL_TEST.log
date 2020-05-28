@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(34,38): warning C4305: “参数”: 从“double”到“const float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(37,37): warning C4305: “参数”: 从“double”到“const float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(40,36): warning C4305: “参数”: 从“double”到“const float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(45,46): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(45,29): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(46,51): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(46,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(46,30): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(59,37): warning C4305: “参数”: 从“double”到“const float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(65,35): warning C4305: “参数”: 从“double”到“const float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(118,62): warning C4305: “参数”: 从“double”到“float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(119,44): warning C4305: “参数”: 从“double”到“const float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(144,28): warning C4305: “参数”: 从“double”到“float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(146,46): warning C4305: “参数”: 从“double”到“float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(150,47): warning C4305: “参数”: 从“double”到“float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(152,28): warning C4305: “参数”: 从“double”到“float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(154,48): warning C4305: “参数”: 从“double”到“float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(190,47): warning C4305: “参数”: 从“double”到“float”截断
+C:\storage\c++\OpenGLStudy\OpenGL_TEST\main.cpp(210,34): warning C4244: “+=”: 从“_Rep”转换到“float”，可能丢失数据
+          with
+          [
+              _Rep=double
+          ]
+  OpenGL_TEST.vcxproj -> C:\storage\c++\OpenGLStudy\OpenGL_TEST\..\Bin\OpenGL_TEST.exe
